@@ -13,7 +13,7 @@
 </details>
 
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
 |one   |two   |3re   |4ur   |5iv   |
