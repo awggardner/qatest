@@ -1,8 +1,12 @@
 # qatest
 <h2>Something</h2>  
-\  <br><br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br><br>  \\
+ <br><br>
+
+ <video controls autoplay>
+  <source src="https://youtu.be/dQw4w9WgXcQ" type="video/mp4">
+  
+  Your browser does not support the video tag.
+</video> 
 
 
 
