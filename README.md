@@ -12,7 +12,9 @@
  
  <details>
   <summary>click here for the original size image</summary>
+ 
   ![image](https://www.coderus.com/wp-content/uploads/fly-images/996776/different-types-of-software-coderus-branded-image-1920x9999.jpg)
+ 
   </details>
   
   
