@@ -2,15 +2,7 @@
 <h2>Something</h2>  
  <br><br>
 
-<details>
- <summary>video</summary>
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
 
-</details>
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen="true"> </iframe>
